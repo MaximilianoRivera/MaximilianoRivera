@@ -1,8 +1,7 @@
 <h1 align="center"> Rodolfo M. Rivera Rangel</h1>
 <h1 align="center"> Physicist and Financial Data Analyst</h1>
 
-
-jkjb
+I'm a physicist from Mexico currently working as a finance analyst 
 <!--
 **MaximilianoRivera/MaximilianoRivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
