@@ -12,7 +12,7 @@ I'm a physicist from Mexico currently working as a finance analyst. Right now I'
 # Project Examples
 Travel Salesman Problem Round Trip
 :--------------------------------------------------:
-<img src='https://github.com/MaximilianoRivera/Personal-Projects/blob/main/TSP%2022%20cities.png' /> 
+<img src='https://github.com/MaximilianoRivera/Personal-Projects/blob/main/TSP%2022%20cities.png' width='256'/> 
 
 <!--
 **MaximilianoRivera/MaximilianoRivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
