@@ -9,7 +9,9 @@ I'm a physicist from Mexico currently working as a finance analyst. Right now I'
 * Experience with big databeses
 * Exception Handling
 
+# Project Examples
 
+<img src='https://github.com/MaximilianoRivera/Personal-Projects/blob/main/TSP%2022%20cities.png' /> 
 
 <!--
 **MaximilianoRivera/MaximilianoRivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
