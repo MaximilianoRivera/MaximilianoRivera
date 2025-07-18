@@ -13,6 +13,9 @@ I'm a physicist from Mexico currently working as a finance analyst. Right now I'
 Travel Salesman Problem Round Trip
 :--------------------------------------------------:
 <img src='https://github.com/MaximilianoRivera/Personal-Projects/blob/main/STP/TSP%2022%20cities.png' width='256'/> 
+Prediction of Canada's adjusted income per capita (US$)
+:--------------------------------------------------:
+<img src='https://github.com/MaximilianoRivera/Personal-Projects/blob/main/Linear%20Regression%20single%20variable/Linear%20regression%20model%20IPC.png' width='256'/> 
 
 <!--
 **MaximilianoRivera/MaximilianoRivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
